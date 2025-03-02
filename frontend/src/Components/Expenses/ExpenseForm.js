@@ -14,7 +14,7 @@ function ExpenseForm() {
         amount: '',
         date: '',
         category: '',
-        description: '',
+        description: ,
     })
 
     const { title, amount, date, category,description } = inputState;
