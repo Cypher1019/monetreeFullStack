@@ -1,4 +1,4 @@
-import moment from 'mont'
+import moment from 'moment'
 
 
 export const dateFormat = (date) =>{
