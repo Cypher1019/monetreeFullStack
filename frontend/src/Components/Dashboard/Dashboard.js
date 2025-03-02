@@ -123,7 +123,7 @@ const DashboardStyled = styled.div`
             .salary-title{
                 font-size: 1.2rem;
                 span{
-                    font-size: 1.8rem;
+                    font-size: 1.8rem
                 }
             }
             .salary-item{
