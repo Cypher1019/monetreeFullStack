@@ -32,7 +32,7 @@ function IncomeItem({
                 return card;
             case 'youtube':
                 return yt;
-            case 'other':
+            case 'other\':
                 return piggy;
             default:
                 return ''
