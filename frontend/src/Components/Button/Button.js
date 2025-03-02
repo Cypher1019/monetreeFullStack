@@ -7,7 +7,7 @@ function Button({name, icon, onClick, bg, bPad, color, bRad}) {
             background: bg,
             padding: bPad,
             borderRadius: bRad,
-            color: color,
+            color: col,
         }} onClick={onClick}>
             {icon}
             {name}
