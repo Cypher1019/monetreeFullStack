@@ -10,7 +10,7 @@ export const useWindowSize = () =>{
         }
         window.addEventListener('resize', updateSize)
 
-        return () => window.removeEventListener('rese', updateSize)
+        return () => window.removeEventListener('resize', updateSize)
     }, [])
 
     return {
