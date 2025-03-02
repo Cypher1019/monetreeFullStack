@@ -12,7 +12,7 @@ import { useGlobalContext } from './context/globalContext';
 function App() {
   const [active, setActive] = useState(1)
 
-  const global = useGlobalConxt()
+  const global = useGlobalContext()
   console.log(global);
 
   const displayData = () => {
