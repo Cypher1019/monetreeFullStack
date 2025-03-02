@@ -23,7 +23,7 @@ ChartJs.register(
     Title,
     Tooltip,
     Legend,
-    ArcElement,
+    ArcEle,
 )
 
 function Chart() {
